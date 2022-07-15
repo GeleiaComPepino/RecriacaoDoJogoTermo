@@ -4,9 +4,11 @@ Uma recriação do site term.ooo utilizando javascript.
 
 ## Instalação
 
-É bem simples, somente precisa se instalar o node.js e executar esse comando no cmd dentro da pasta:
+É bem simples, somente precisa se instalar o node.js e executar esses comandos no cmd dentro da pasta:
 
 ```bash
+npm install fs cli-color readline-sync
+
 node main.js
 ```
 
