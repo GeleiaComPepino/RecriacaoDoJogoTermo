@@ -16,9 +16,9 @@ node main.js
 
 Apenas digite a palavra e o sistema verificar se está certa!</br>
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) Vermelho: A palavra não contem as/a letras/letra.
-- ![#FFFF00](https://via.placeholder.com/15/FFFF00/FFFF00.png) Amarelo: A palavra contém a letra, mas a letra não é nessa posição.
-- ![#00FF00](https://via.placeholder.com/15/00FF00/00FF00.png) Verde: A contem na palavra e está na posição correta.
+- ![#f03c15](https://dummyimage.com/15/f03c15/f03c15.png) Vermelho: A palavra não contem as/a letras/letra.
+- ![#FFFF00](https://dummyimage.com/15/FFFF00/FFFF00.png) Amarelo: A palavra contém a letra, mas a letra não é nessa posição.
+- ![#00FF00](https://dummyimage.com/15/00FF00/00FF00.png) Verde: A contem na palavra e está na posição correta.
 
 ## Avançado
 Caso você for utilizar o codigo no visual studio code, deixei um pasta do vs code (.vscode) preparada para você, a module que eu utilizei, utiliza o console cmd como padrão, e não aceita o console de depuração, então, eu deixei com um código para mudar a usagem do console de depuração para a usagem do terminal, para não ocorrer erros.
